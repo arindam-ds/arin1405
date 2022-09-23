@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/Arin1405) 
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Scholar&color=4285F4&logo=Google+Scholar&logoColor=FFFFFF&label=" />](https://scholar.google.co.in/citations?user=Ytht_3IAAAAJ&hl=en)
 <a href="https://www.linkedin.com/in/arindambanerjee1/" target="_blank">
-  <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" onclick="window.open(this.src, '_blank');"/>
 </a>
 
 <br>
